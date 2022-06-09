@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "text": "This is text 1 from db updated",
+      "rating": 9,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "rating": 10,
+      "text": "This is text 2"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "This is text 3"
+    },
+    {
+      "text": "new text here",
+      "rating": 9,
+      "id": 4
+    }
+  ]
+}
